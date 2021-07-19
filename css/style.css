@@ -588,6 +588,13 @@ footer p {
 /* ================================= for responsive=============================================== */
 
 /* media qwery */
-
+@media screen and (max-width: 767px){
+  .expect .card-img-top{
+    height: 25vh;
+    width: 150px;
+    display: block;
+    margin:0 auto ;
+  }
+}
 
 /* media qwery */
